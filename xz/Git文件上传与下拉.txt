@@ -1,0 +1,14 @@
+创建Git数据库官网：
+https://github.com/
+
+上传：
+git clone https://github.com/TimeessYG/Android_YG.git   这里面的http是你创建的库地址下拉过来的
+然后给文件夹里拉项目
+※※※必须是拉完文件之后再做以下步骤
+git init
+git add .
+git commit -m “这里面添加你拉的项目文件夹名称”
+git push
+
+下拉：
+git clone https://github.com/TimeessYG/Android_YG.git 
